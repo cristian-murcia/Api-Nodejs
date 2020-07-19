@@ -1,0 +1,6 @@
+// DEPENDENCIAS NECESARIAS  
+// npm install express --save: es para instalar express y poder recibir peticiones http
+// npm install body-parser --save: body.parser nos sirve para convertir las peticiones a objetos json
+// npm install connect-multiparty --save: es para poder guardar ficheros en el backend y manejo de rutas de los archivos en el servidor.
+// npm install mongoose --save: permite realizar una conexion con una base de datos en MongoDB
+// npm install nodemon --save-dev: sirve para reiniciar el servidor cada vez que yo guarde un cambio en el backend
